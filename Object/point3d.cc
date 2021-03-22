@@ -11,9 +11,7 @@
 
 #include <time.h>
 
-#include <cmath>
 #include <cstdio>
-#include <iostream>
 
 #define point3d_print_d(pd)                                                    \
   do {                                                                         \

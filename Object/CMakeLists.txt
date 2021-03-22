@@ -1,1 +1,5 @@
 add_executable(point3d point3d.cc)
+add_executable(point3d_f function.cc)
+add_executable(virtualfunction virtualfunction.cc)
+add_executable(size size.cc)
+#add_executable(constdemo constdemo.cc)
